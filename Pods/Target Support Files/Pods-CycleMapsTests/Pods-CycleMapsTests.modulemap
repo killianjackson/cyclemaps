@@ -1,0 +1,6 @@
+framework module Pods_CycleMapsTests {
+  umbrella header "Pods-CycleMapsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
